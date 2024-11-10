@@ -1,0 +1,217 @@
+@font-face {
+    font-family: 'fonte';
+    src: url(JosefinSlab-Italic-VariableFont_wght.ttf);
+}
+
+body {
+    display: flex;
+    background-color: rgb(186, 174, 158);
+}
+/* Inicio da introducao */
+
+#introducao {
+    display: flex;
+    
+}
+
+.menus {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    gap: 20px;
+    font-size: 10px;
+    font-family: 'fonte';
+    margin-left: 30%;
+}
+
+/* Fim da introducao */
+
+/* Inicio do corpo 1 */
+#corpo1 {
+    display: flex;
+}
+
+.titulo_introducao {
+    display: flex;
+    font-family: 'fonte';
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+.imagem_introducao {
+    display: flex;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 5%;
+}
+/* Fim do corpo 1 */
+
+/* Inicio do corpo 2 */
+
+#corpo2 {
+    display: flex;
+    margin-top: 900px;
+}
+
+.sobremim {
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 5%;
+    display: flex;
+    font-family: 'fonte';
+    font-size: 50px;
+}
+
+
+.imagem_corpo2 {
+    display: flex;
+    position: absolute;
+    margin-left: -30%;
+    margin-top: 50px;
+}
+
+.descricao_corpo2 {
+    display: flex;
+    position: absolute;
+    font-family: 'fonte';
+    line-height: 1.5;
+    width: 500px;
+    font-size: 30px;
+    margin-left: 5%
+}
+
+/* Fim do corpo 2 */
+
+/* Inicio do corpo 3 */
+
+#corpo3 {
+    display: flex;
+    margin-top: 2000px;
+}
+
+.titulo_corpo3 {
+    display: flex;
+    position: absolute;
+    font-size: 39px;
+    font-family: 'fonte';
+    margin-left: 5%;
+}
+
+.imagens_projeto {
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    margin-top: 20%;
+    margin-left: -30%;
+    gap: 50px;
+}
+
+.outroportfolio {
+    border-radius: 20px;
+}
+
+.joias {
+    border-radius: 20px;
+}
+
+.telescopio {
+    border-radius: 20px;
+}
+
+.imagens_projeto2 {
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    margin-top: 40%;
+    margin-left: -30%;
+    gap: 50px;
+}
+
+.petshop {
+    border-radius: 20px;
+}
+
+.falcontech {
+    border-radius: 20px;
+}
+
+.cupcake {
+    border-radius: 20px;
+}
+
+
+
+/* Fim do corpo 3 */
+
+/* Inicio do corpo 4 */
+
+#corpo4 {
+    display: flex;
+    margin-top: 3100px;
+
+}
+
+.titulo_habilidades {
+    display: flex;
+    position: absolute;
+    font-size: 39px;
+    font-family: 'fonte';
+}
+
+.habilidades {
+    display: flex;
+    margin-top: 300px;
+    position: absolute;
+    justify-content: space-between;
+    gap:20px;
+    margin-left: -25%;
+}
+
+
+/* Fim do corpo 4 */
+
+/* Inicio do corpo 5 */
+
+#corpo5 {
+    display: flex;
+    margin-top: 4000px;
+    position: absolute;
+    font-size: 39px;
+    font-family: 'fonte';
+    margin-left: 40%;
+}
+
+.imagem_fundo {
+    display: flex;
+    margin-left: -15%;
+    position: relative;
+    margin-top: -5%;
+}
+
+.mensagem {
+    display: flex;
+    position: absolute;
+    font-size: 25px;
+    font-family: 'fonte';
+    margin-left: -25%;
+    margin-top: 10%;
+}
+
+.contatos_final {
+    display: flex;
+    position: absolute;
+    margin-left: -25%;
+    margin-top: 35%;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.email {
+    display: flex;
+    position: absolute;
+    font-family: 'fonte';
+    font-size: 20px;
+    margin-left: -15%;
+    margin-top: 35%;
+}
+/* Fim do corpo 5 */
