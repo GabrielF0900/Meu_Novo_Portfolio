@@ -3,3 +3,4 @@
 Nome da pasta: Contatos
 Nome da pasta: Imagem Principal
 Nome da pasta: projetos
+Nome da fonte do google fonts: JosefinSlab-Italic-VariableFont_wght.ttf
